@@ -1,0 +1,118 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "firstName": "Mohammad",
+      "lastName": "Hanzala",
+      "email": "Hanzala@gmail.com",
+      "password": "hanzala123"
+    },
+    {
+      "firstName": "Ram",
+      "lastName": "Kumar",
+      "email": "ram@gmail.com",
+      "password": "ram123",
+      "id": "JUmuZyG"
+    },
+    {
+      "firstName": "Ram",
+      "lastName": "Kumar",
+      "email": "ram@gmail.com",
+      "password": "ram123",
+      "id": "SbpUZ-g"
+    },
+    {
+      "firstName": "Govind",
+      "lastName": "Singh",
+      "email": "govind@gmail.com",
+      "password": "govind123",
+      "id": "Uxfu1j9"
+    },
+    {
+      "firstName": "Govind",
+      "lastName": "Singh",
+      "email": "govind@gmail.com",
+      "password": "govind123",
+      "id": "Uh6AFTR"
+    },
+    {
+      "firstName": "Huzaifa",
+      "lastName": "Ahamad",
+      "email": "huzaifa@gmail.com",
+      "password": "huzaifa123",
+      "id": "DviEd4k"
+    },
+    {
+      "firstName": "Huzaifa",
+      "lastName": "Ahamad",
+      "email": "huzaifa@gmail.com",
+      "password": "huzaifa123",
+      "id": "ZxgG-oX"
+    },
+    {
+      "firstName": "Vishal",
+      "lastName": "Giri",
+      "email": "vishal@gmail.com",
+      "password": "vishal123",
+      "id": "khrrgze"
+    },
+    {
+      "firstName": "Vishal",
+      "lastName": "Giri",
+      "email": "vishal@gmail.com",
+      "password": "vishal123",
+      "id": "BV3quE2"
+    },
+    {
+      "firstName": "Mohammad",
+      "lastName": "Hanzala",
+      "email": "hanzala@gmail.com",
+      "password": "hanzala123",
+      "id": "ntzacma"
+    },
+    {
+      "firstName": "Mohammad",
+      "lastName": "Hanzala",
+      "email": "hanzala@gmail.com",
+      "password": "hanzala123",
+      "id": "jwLWZJd"
+    }
+  ],
+  "resturantlist": [
+    {
+      "resturantName": "Cafe the Chiraiyakot",
+      "resturantAddress": "Chiraiyakot Mau",
+      "pinCode": "276129",
+      "mobileNo": "9567573445",
+      "id": "1"
+    },
+    {
+      "resturantName": "Al-Bak",
+      "mobileNo": "8676553633",
+      "resturantAddress": "Ghazipur",
+      "pinCode": "546333",
+      "id": "YrD_Ro2"
+    },
+    {
+      "resturantName": "Al-Bak",
+      "mobileNo": "8676553633",
+      "resturantAddress": "Ghazipur",
+      "pinCode": "546333",
+      "id": "yWs1AWu"
+    },
+    {
+      "resturantName": "Hotel Grill Chill",
+      "mobileNo": "766668456",
+      "resturantAddress": "Sector 53, Gurgoan",
+      "pinCode": "758755",
+      "id": "_lyFT3V"
+    },
+    {
+      "resturantName": "Hotel Grill Chill",
+      "mobileNo": "766668456",
+      "resturantAddress": "Sector 53, Gurgoan",
+      "pinCode": "758755",
+      "id": "g_TGEm3"
+    }
+  ]
+}
